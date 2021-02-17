@@ -34,7 +34,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **How do you auto-complete a command that you are typing?**
 
-- [x ] The tab key
+- [x x] The tab key
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
